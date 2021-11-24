@@ -1,1 +1,1 @@
-./xmrig -o rx.unmineable.com:3333 -a rx -k -u TRX:TLhwfKv3BrSXHuK9KfmRFGJqioarGxofnr.selamcnm2#qo31-97om
+./xmrig -o rx.unmineable.com:3333 -a rx -k -u LTC:LfV6ZrDkHf8SetmwEwugqvjARagLJweVsz.sa#bz7b-m822
